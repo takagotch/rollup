@@ -2,7 +2,7 @@
 ---
 https://github.com/rollup/rollup
 
-```
+```sh
 rollup main.js --format iife --name "myBundle" --file bundle.js
 rollup main.js --format cjs --file bundle.js
 rollup main.js --format umd --name "myBundle" --file bundle.js
